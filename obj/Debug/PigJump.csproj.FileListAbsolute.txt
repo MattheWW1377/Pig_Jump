@@ -1,0 +1,11 @@
+C:\Users\batsa\source\repos\DoodleJumpОриг\PigJump\obj\Debug\PigJump.csproj.AssemblyReference.cache
+C:\Users\batsa\source\repos\DoodleJumpОриг\PigJump\obj\Debug\PigJump.csproj.SuggestedBindingRedirects.cache
+C:\Users\batsa\source\repos\DoodleJumpОриг\PigJump\obj\Debug\PigJump.Properties.Resources.resources
+C:\Users\batsa\source\repos\DoodleJumpОриг\PigJump\obj\Debug\PigJump.csproj.GenerateResource.cache
+C:\Users\batsa\source\repos\DoodleJumpОриг\PigJump\obj\Debug\PigJump.csproj.CoreCompileInputs.cache
+C:\Users\batsa\source\repos\DoodleJumpОриг\PigJump\bin\Debug\PigJump.exe.config
+C:\Users\batsa\source\repos\DoodleJumpОриг\PigJump\bin\Debug\PigJump.exe
+C:\Users\batsa\source\repos\DoodleJumpОриг\PigJump\bin\Debug\PigJump.pdb
+C:\Users\batsa\source\repos\DoodleJumpОриг\PigJump\obj\Debug\PigJump.exe
+C:\Users\batsa\source\repos\DoodleJumpОриг\PigJump\obj\Debug\PigJump.pdb
+C:\Users\batsa\source\repos\DoodleJumpОриг\PigJump\obj\Debug\PigJump.PigJump.resources
